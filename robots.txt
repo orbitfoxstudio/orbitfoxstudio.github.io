@@ -1,0 +1,5 @@
+# Orbit Fox Studio: search engines are welcome everywhere, including the games.
+User-agent: *
+Allow: /
+
+Sitemap: https://orbitfoxstudio.github.io/sitemap.xml
