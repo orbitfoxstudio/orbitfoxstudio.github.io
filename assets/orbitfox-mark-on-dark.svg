@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 78 488 360" width="488" height="360">
+<defs><clipPath id="k-front"><rect x="-400" y="0" width="800" height="400"/></clipPath><clipPath id="k-head"><polygon points="132,100 214,178 256,192 256,420 104,284"/><polygon points="380,100 298,178 256,192 256,420 408,284"/></clipPath></defs>
+<g transform="translate(256 300) rotate(-18)"><ellipse rx="236" ry="66" fill="none" stroke="#4de1ff" stroke-width="12"/></g>
+<polygon points="132,100 214,178 256,192 256,420 104,284" fill="#ff7a1f"/>
+<polygon points="380,100 298,178 256,192 256,420 408,284" fill="#e85d14"/>
+<polygon points="214,178 256,192 256,262" fill="#ff9a45"/>
+<polygon points="298,178 256,192 256,262" fill="#f2711f"/>
+<polygon points="144,128 198,182 128,214" fill="#241536"/>
+<polygon points="368,128 314,182 384,214" fill="#241536"/>
+<polygon points="104,284 204,318 256,420" fill="#fff4e8"/>
+<polygon points="408,284 308,318 256,420" fill="#e9dccd"/>
+<path d="M168 252 Q198 232 230 258 Q196 272 168 252 Z" fill="#241536"/><path d="M344 252 Q314 232 282 258 Q316 272 344 252 Z" fill="#241536"/>
+<polygon points="236,392 276,392 256,418" fill="#241536" stroke="#241536" stroke-width="10" stroke-linejoin="round"/>
+<g clip-path="url(#k-head)" opacity=".22"><g transform="translate(256 310) rotate(-18)"><ellipse rx="236" ry="66" fill="none" stroke="#2a0f00" stroke-width="12" clip-path="url(#k-front)"/></g></g>
+<g transform="translate(256 300) rotate(-18)"><ellipse rx="236" ry="66" fill="none" stroke="#4de1ff" stroke-width="12" clip-path="url(#k-front)"/></g>
+<path d="M456.47 182.87 Q456.47 208.87 482.47 208.87 Q456.47 208.87 456.47 234.87 Q456.47 208.87 430.47 208.87 Q456.47 208.87 456.47 182.87Z" fill="#ffffff"/>
+</svg>

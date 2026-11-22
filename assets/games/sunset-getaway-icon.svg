@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Sunset Getaway app icon: pink getaway car under a sunset. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7a59"/><stop offset="0.55" stop-color="#ff5e9c"/><stop offset="1" stop-color="#6a3fd1"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#sky)"/>
+  <circle cx="128" cy="112" r="62" fill="#ffd23f"/>
+  <g fill="#ff7a59" opacity="0.9"><rect x="60" y="120" width="136" height="7"/><rect x="60" y="138" width="136" height="9"/><rect x="60" y="158" width="136" height="11"/></g>
+  <rect x="0" y="176" width="256" height="80" fill="#2a2f4d"/>
+  <rect x="0" y="210" width="256" height="6" fill="#f2c94c"/>
+  <g transform="translate(128 196) rotate(-90) scale(1.6)">
+    <rect x="-34" y="-19" width="68" height="38" rx="11" fill="#ff5e7e" stroke="#ffffff" stroke-width="3"/>
+    <path d="M11 -15 L11 15 L4 12 L4 -12 Z" fill="#2b3550"/>
+    <rect x="-10" y="-13" width="12" height="11" rx="3" fill="#ffe2b8"/>
+    <rect x="-10" y="2" width="12" height="11" rx="3" fill="#ffe2b8"/>
+    <rect x="13" y="-3" width="21" height="6" fill="#ffffff"/>
+  </g>
+  <g fill="#1f5c46"><path d="M40 176 C 44 140, 40 110, 30 92 L 36 92 C 48 112, 52 140, 48 176 Z"/></g>
+  <g fill="#2fbf8f"><path d="M33 92 C 50 78, 70 80, 78 92 C 62 86, 48 88, 33 92Z"/><path d="M33 92 C 18 76, 0 78, -6 90 C 10 84, 22 86, 33 92Z"/><path d="M33 92 C 40 74, 36 58, 28 52 C 32 66, 30 80, 33 92Z"/></g>
+</svg>
